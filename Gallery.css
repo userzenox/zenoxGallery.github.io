@@ -4,7 +4,7 @@
 	margin:0px;
 	padding:0px ;
 	box-sizing: border-box;
-	background-color:  rgba(14, 83, 116, 0.733);
+	background-color: #0c192c;
   }
   
   .gallery-section{
@@ -138,7 +138,7 @@
 				  }
   
 					   .shadow-effect{
-						  color: rgba(11, 94, 133, 0.733);
+						  color: #0f1e36 ;
 						  margin-bottom: 0;
 						  
 					   }
